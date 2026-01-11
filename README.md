@@ -1,4 +1,26 @@
-## Hi 👋 , I'm Vishal Kumar 
+# Hi 👋 I'm Vishal Kumar
+
+🚀 MERN Stack Developer | JavaScript | Node.js | MongoDB  
+💻 Passionate about building scalable web applications  
+
+## 🔧 Tech Stack
+- Frontend: HTML, CSS, Tailwind, JavaScript, React
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Postman
+
+## 📌 Featured Projects
+- Lifeline360 – Healthcare Platform (MERN)
+- ReWear – Community Clothing Exchange (MERN)
+- Authentication System (Node + MongoDB)
+
+## 📈 What I'm Working On
+- Improving backend architecture
+- Writing clean & documented code
+- Preparing for backend-focused roles
+
+📫 Reach me at: yourmail@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalkumar7202) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalkumar7295997202@gmail.com) 
