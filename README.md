@@ -29,8 +29,6 @@ I value readable code, proper project structure, and clear documentation.
 Email: vishalkumar7295997202@gmail.com  
 GitHub: https://github.com/Vishal7202  
 LinkedIn: www.linkedin.com/in/
-vishalkumar7202
-Vanity URL name
 
 
 
