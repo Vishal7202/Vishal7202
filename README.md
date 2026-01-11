@@ -8,15 +8,16 @@ I focus on building clean, scalable backend systems and REST APIs.
 I value readable code, proper project structure, and clear documentation.
 
 ## Tech Stack
-- Languages: JavaScript
+- Language: JavaScript
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Frontend: HTML, CSS, React (basic)
+- CMS (Basic): WordPress, PHP
 - Tools: Git, GitHub, Postman
 
 ## Featured Projects
 - **Lifeline360** – Healthcare platform backend (Node.js, MongoDB)
-- **ReWear** – Community clothing exchange (MERN)
+- **ReWear** – Community clothing exchange system (MERN)
 - **Auth Service** – JWT-based authentication system
 
 ## Currently Working On
@@ -26,7 +27,9 @@ I value readable code, proper project structure, and clear documentation.
 
 ## Contact
 Email: vishalkumar7295997202@gmail.com  
-GitHub: https://github.com/Vishal7202
+GitHub: https://github.com/Vishal7202  
+LinkedIn: (add your LinkedIn profile link)
+
 
 
 ## 🌐 Socials:
