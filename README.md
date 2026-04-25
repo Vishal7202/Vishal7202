@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">🚀 Full Stack Developer | Backend Specialist | MERN Stack | Problem Solver</h3>
 
+<p align="center">
+💡 Building scalable backend systems & real-world MERN applications  
+🚀 Focused on REST APIs, authentication & production-ready code  
+</p>
+
 ---
 
 ## 🔥 About Me
@@ -106,6 +111,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
