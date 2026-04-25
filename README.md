@@ -40,30 +40,46 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
+### 🧠 TruthLensAI (Fake Content Detection System)
+- Built using **Python + NLP techniques**
+- Detects fake/misleading content from **text, PDFs, images & videos**
+- Implemented preprocessing & analysis logic for content validation  
+
+🔗 Live: https://truth-lens-ai-chi.vercel.app/  
+🔗 Repo: https://github.com/Vishal7202/TruthLensAI  
+
+---
+
+### 👕 ReWear (Clothing Exchange Platform)
+- Full-stack **MERN application**
+- Secure authentication using **JWT**
+- Users can upload, browse & request clothes  
+- Responsive UI built with React & Tailwind  
+
+🔗 Live: https://re-wear-full-project.vercel.app/  
+🔗 Repo: https://github.com/Vishal7202/ReWear---Full-Project  
+
+---
+
 ### 🏥 Lifeline 360 (Healthcare Platform)
 - Full-stack MERN application  
 - Role-based system (Doctor, Patient, Admin)  
 - Features: Consultation, Lab Tests, Medicine Ordering  
 - Designed scalable backend with REST APIs  
 
+🔗 Live: https://lifeline-360-main.vercel.app/  
 🔗 Repo: https://github.com/Vishal7202/LifeLine-360  
 
 ---
 
-### 👕 ReWear (Clothing Exchange Platform)
-- Community-based clothing exchange system  
-- Secure authentication using JWT  
-- Responsive UI with React & Tailwind  
-- Integrated frontend with backend APIs  
+### 🌐 Portfolio Website
+- Personal portfolio showcasing projects & skills  
+- Built using modern UI with responsive design  
 
-🔗 Repo: https://github.com/Vishal7202/ReWear---Full-Project  
-
----
-
-### 🧠 TruthLensAI (Fake Content Detection System)
-- Built using **Python + NLP techniques**  
-- Detects fake/misleading content from text, PDFs, images & videos  
-- Implemented preprocessing & analysis logic for content validation  
+🔗 Live: https://vishal-portfolio-liart.vercel.app/  
+🔗 Repo: https://github.com/Vishal7202/MY-Portfolio  
 
 ---
 
