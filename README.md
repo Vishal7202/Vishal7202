@@ -42,8 +42,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🧠 TruthLensAI (Fake Content Detection System)
 - Built using **Python + NLP techniques**
 - Detects fake/misleading content from **text, PDFs, images & videos**
